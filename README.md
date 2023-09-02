@@ -1,1 +1,1 @@
-# Gitrepository
+A calculator that calculates simple interest given principle , annual rate of interest and time period in year. Input:p,priciple amount  t,time period in years r, annual rate of interest Output simple interest=ptr
